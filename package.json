@@ -1,0 +1,24 @@
+{
+  "name": "htmljstoconnectexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static-server src "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amirsharifico/htmlJstoConnectExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amirsharifico/htmlJstoConnectExpress/issues"
+  },
+  "homepage": "https://github.com/Amirsharifico/htmlJstoConnectExpress#readme",
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
