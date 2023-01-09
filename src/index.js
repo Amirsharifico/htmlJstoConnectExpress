@@ -5,6 +5,6 @@ function myFirstFunction() {
     .then((res) => res.json())
     .then((data) => {
       console.log(data);
-      document.getElementById("javab").innerText = data[0].name;
+      document.getElementById("javab").innerText = data[1].age;
     });
 }

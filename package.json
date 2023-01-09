@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "static-server src "
+    "start": "static-server src " 
   },
   "repository": {
     "type": "git",
@@ -21,4 +21,9 @@
   "dependencies": {
     "static-server": "^2.2.1"
   }
+
+
+
 }
+
+
